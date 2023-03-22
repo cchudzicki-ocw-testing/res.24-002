@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "2016f8d5-1682-1bec-8853-20052a703968",
+      "7e99c171-2da4-1fdc-a984-68ab5291d71d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "mit-haiti-initiative-inisyativ-mit-ayiti"
+  },
+  "course_title": "MIT-Haiti Initiative / Inisyativ MIT-Ayiti",
+  "course_description": "",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.24-002",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "mit-haiti-initiative-inisyativ-mit-ayiti"
+  },
+  "learning_resource_types": [],
+  "site_uid": "62fe986b-876c-43d5-9d26-015e6d1b4a8a",
+  "site_short_id": "res.24-002"
+}
