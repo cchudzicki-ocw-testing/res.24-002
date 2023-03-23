@@ -1,0 +1,9 @@
+leftnav:
+- identifier: external-372824167-1679572682910
+  name: MIT-Haiti Initiative
+  url: https://haiti.mit.edu/
+  weight: 10
+- identifier: external-1580868830-1679572931153
+  name: "Platf\xF2m MIT-Ayiti"
+  url: https://mit-ayiti.net/
+  weight: 20
