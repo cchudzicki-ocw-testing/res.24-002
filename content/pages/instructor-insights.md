@@ -13,4 +13,6 @@ Why the MIT-Initiatve Was Founded
 
 The Development of the Initiative
 
-Potential for Collaboration
+The Importance of Mother-Tongue Learning to Active Learning
+
+Potential for Ongoing Collaboration
