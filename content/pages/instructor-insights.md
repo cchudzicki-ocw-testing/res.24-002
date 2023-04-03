@@ -9,7 +9,7 @@ uid: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
 ---
 In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss various aspects of the MIT-Haiti Initiative and the related Platfòm MIT-Ayiti.
 
-{{% resource_link "be597ce7-c131-4373-b3dc-ae70b45dda49" "Why the MIT-Initiative Was Founded" %}}
+{{% resource_link "be597ce7-c131-4373-b3dc-ae70b45dda49" "Why the MIT-Haiti Initiative Was Founded" %}}
 
 {{% resource_link "f05ccba1-0d45-4f19-aba9-8b2843b08e20" "How the Initiative Has Developed" %}}
 
