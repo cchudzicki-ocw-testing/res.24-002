@@ -9,10 +9,12 @@ uid: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
 ---
 In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss various aspects of the MIT-Haiti Initiative and the related Platfòm MIT-Ayiti.
 
-Why the MIT-Initiatve Was Founded
+Why the MIT-Initiative Was Founded
 
 The Development of the Initiative
 
-The Importance of Mother-Tongue Learning to Active Learning
+What Is Platfòm MIT-Ayiti?
+
+Mother-Tongue Pedagogy as Active-Learning Pedagogy
 
 Potential for Ongoing Collaboration
