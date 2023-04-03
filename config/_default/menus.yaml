@@ -11,3 +11,28 @@ leftnav:
   name: Instructor Insights
   url: /pages/instructor-insights
   weight: 30
+- identifier: be597ce7-c131-4373-b3dc-ae70b45dda49
+  name: Why the MIT-Haiti Initiative Was Founded
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/why-the-mit-initiatve-was-founded
+  weight: 10
+- identifier: f05ccba1-0d45-4f19-aba9-8b2843b08e20
+  name: How the Initiative Has Developed
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/the-development-of-the-initiative
+  weight: 20
+- identifier: 37503aa9-2f94-4904-9882-206f2563391e
+  name: "What Is Platf\xF2m MIT-Ayiti?"
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/what-is-platfom-mit-ayiti
+  weight: 30
+- identifier: ef793a62-68cb-4371-8547-2af4483a7033
+  name: Mother-Tongue Pedagogy as Active-Learning Pedagogy
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/mother-tongue-pedagogy-as-active-learning-pedagogy
+  weight: 40
+- identifier: 4919bc89-f7a9-4580-b1a3-e0a8c78caeae
+  name: Potential for Ongoing Collaboration
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/potential-for-ongoing-collaboration
+  weight: 50
