@@ -3,7 +3,7 @@ content_type: page
 description: "This page provides information on the rationale for the creation of\
   \ the MIT-Haiti Initiative and Platf\xF2m MIT-Ayiti."
 draft: false
-title: Why the MIT-Initiative Was Founded
+title: Why the MIT-Haiti Initiative Was Founded
 uid: be597ce7-c131-4373-b3dc-ae70b45dda49
 ---
 *Below, Professors Michel DeGraff and Haynes Miller describe what motivated them and their colleagues to create the MIT-Haiti Initiative.*
