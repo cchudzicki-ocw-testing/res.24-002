@@ -6,7 +6,7 @@ draft: false
 title: Mother-Tongue Pedagogy as Active-Learning Pedagogy
 uid: ef793a62-68cb-4371-8547-2af4483a7033
 ---
-*Below, Professors Michel DeGraff and Haynes Miller discuss the development of the MIT-Haiti Initiative in the years since its founding.*
+*Below, Professors Michel DeGraff and Haynes Miller discuss how education in one's mother tongue empowers learners to be more actively engaged in their own education.*
 
 Learning is “constructive” when learners actively participate in building their own knowledge. Research shows that, when learners use their mother tongue, the class becomes more lively, the learning deeper, and the students understand better. 
 
