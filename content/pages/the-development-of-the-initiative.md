@@ -2,7 +2,7 @@
 content_type: page
 description: This page offers information on the history of the MIT-Haiti Initiative
 draft: false
-title: How the Initiative has Developed
+title: How the Initiative Has Developed
 uid: f05ccba1-0d45-4f19-aba9-8b2843b08e20
 ---
 *Below, Professors Michel DeGraff and Haynes Miller discuss the development of the MIT-Haiti Initiative in the years since its founding.*
