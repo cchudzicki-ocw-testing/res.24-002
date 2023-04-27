@@ -36,3 +36,28 @@ leftnav:
   parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
   url: /pages/potential-for-ongoing-collaboration
   weight: 50
+- identifier: 4f6e3dea-3fe3-4a58-bcf2-1fc6798aa6c5
+  name: "Ki rezon ki lak\xF2z lansman Inisyativ MIT-Ayiti?"
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/ki-rezon-ki-lakoz-lansman-inisyativ-mit-ayiti
+  weight: 60
+- identifier: 71bc63a1-d56e-4928-8649-289a4a29cb84
+  name: Ki jan Inisyativ la devlope?
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/ki-jan-inisyativ-la-devlope
+  weight: 70
+- identifier: 5e004465-832a-41cf-8a45-889d58410172
+  name: "Ki sa ki Platf\xF2m MIT-Ayiti?"
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/ki-sa-ki-platfom-mit-ayiti
+  weight: 80
+- identifier: b5498631-932f-4fb5-bbef-70e9df97c765
+  name: "Lang manman k\xF2m zouti ki neses\xE8 pou aprantisaj aktif"
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/lang-manman-kom-zouti-ki-nesese-pou-aprantisaj-aktif
+  weight: 90
+- identifier: 1b84e129-855b-453f-8af8-fa1457d5c33f
+  name: "Op\xF2tinite pou kolaborasyon ki dirab"
+  parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
+  url: /pages/opotinite-pou-kolaborasyon-ki-dirab
+  weight: 100
