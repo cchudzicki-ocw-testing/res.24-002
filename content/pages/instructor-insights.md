@@ -7,7 +7,7 @@ draft: false
 title: Instructor Insights
 uid: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
 ---
-In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss various aspects of the MIT-Haiti Initiative and the related Platfòm MIT-Ayiti.
+In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss various aspects of the MIT-Haiti Initiative and the related Platfòm MIT-Ayiti:
 
 {{% resource_link "be597ce7-c131-4373-b3dc-ae70b45dda49" "Why the MIT-Initiative Was Founded" %}}
 
@@ -19,14 +19,14 @@ In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss v
 
 {{% resource_link "4919bc89-f7a9-4580-b1a3-e0a8c78caeae" "Potential for Ongoing Collaboration" %}}
 
-\[In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss various aspects of the MIT-Haiti Initiative and the related Platfòm MIT-Ayiti.\]
+Nan paj ou ka gade lè w klike sou lyen sa yo ki an ba la a, Pwòf Michel DeGraff ak Pwòf Haynes Miller prezante divès aspè Inisyativ MIT-Ayiti ak Platfòm MIT-Ayiti:
 
-\[Why the MIT-Initiative Was Founded\]
+Ki rezon ki lakòz lansman Inisyativ MIT-Ayiti?
 
-\[How the Initiative Has Developed\]
+Ki jan Inisyativ la devlope?
 
-\[What Is Platfòm MIT-Ayiti?\]
+Ki sa ki Platfòm MIT-Ayiti?
 
-\[Mother-Tongue Pedagogy as Active-Learning Pedagogy\]
+Lang manman kòm zouti ki nesesè pou aprantisaj aktif
 
-\[Potential for Ongoing Collaboration\]
+Opòtinite pou kolaborasyon ki dirab
