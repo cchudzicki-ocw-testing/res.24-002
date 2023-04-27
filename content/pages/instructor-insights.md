@@ -21,12 +21,12 @@ In the pages linked below, Professors Michel DeGraff and Haynes Miller discuss v
 
 Nan paj ou ka gade lè w klike sou lyen sa yo ki an ba la a, Pwòf Michel DeGraff ak Pwòf Haynes Miller prezante divès aspè Inisyativ MIT-Ayiti ak Platfòm MIT-Ayiti:
 
-Ki rezon ki lakòz lansman Inisyativ MIT-Ayiti?
+{{% resource_link "4f6e3dea-3fe3-4a58-bcf2-1fc6798aa6c5" "Ki rezon ki lakòz lansman Inisyativ MIT-Ayiti?" %}}
 
-Ki jan Inisyativ la devlope?
+{{% resource_link "71bc63a1-d56e-4928-8649-289a4a29cb84" "Ki jan Inisyativ la devlope?" %}}
 
-Ki sa ki Platfòm MIT-Ayiti?
+{{% resource_link "5e004465-832a-41cf-8a45-889d58410172" "Ki sa ki Platfòm MIT-Ayiti?" %}}
 
-Lang manman kòm zouti ki nesesè pou aprantisaj aktif
+{{% resource_link "b5498631-932f-4fb5-bbef-70e9df97c765" "Lang manman kòm zouti ki nesesè pou aprantisaj aktif" %}}
 
-Opòtinite pou kolaborasyon ki dirab
+{{% resource_link "1b84e129-855b-453f-8af8-fa1457d5c33f" "Opòtinite pou kolaborasyon ki dirab" %}}
