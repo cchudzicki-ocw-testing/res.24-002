@@ -3,7 +3,7 @@ content_type: page
 description: This section presents information on how education in students' mother
   tongue supports active learning.
 draft: false
-title: Mother-Tongue Pedagogy as Active-Learning Pedagogy
+title: Mother Tongue as a Necessary Tool for Active-Learning Pedagogy
 uid: ef793a62-68cb-4371-8547-2af4483a7033
 ---
 *Below, Professors Michel DeGraff and Haynes Miller discuss how education in one's mother tongue empowers learners to be more actively engaged in their own education.*
